@@ -53,4 +53,4 @@ And also subscribing **_releases_**
 ### Small
 
 - [GFAA Exhibition 2020](https://gfaa.ondisplay.co.kr) - Online exhibition website for Gwanak Fine Arts Associations 2020
-- [Hi-Seoul New App](https://app.hiseoul.org) - Simple word-cloud web application (desktop only)
+- [Hi-Seoul News App](https://app.hiseoul.org) - Simple word-cloud web application (desktop only)
