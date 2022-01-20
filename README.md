@@ -14,7 +14,6 @@ Co-Founder, CTO of [Coxwave](https://www.coxwave.com/)
 
 - [Svelte](https://github.com/sveltejs/svelte)
 - [Svelte Kit](https://github.com/sveltejs/kit)
-- [Svelte Query](https://github.com/SvelteStack/svelte-query)
 - [Strapi](https://github.com/strapi/strapi)
 - [Branching Feature in Figma](https://www.figma.com/best-practices/branching-in-figma/)
 
