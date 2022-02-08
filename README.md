@@ -21,6 +21,7 @@ Co-Founder, CTO of [Coxwave](https://www.coxwave.com/)
 
 - I've published [svelte-kit template](https://github.com/coxwave/svelte-template) as an open-source, which has integration with tailwindcss & mongodb out-of-the-box, and also contains electrifying usage pattern of svelte-kit in typescript. Here is a [live example](https://coxwave-svelte-template.vercel.app/).
 - I've launched [in-browser-image-resizer](https://github.com/kayk1m/img.kay.kr), which can resize and format an image without any server process. Here's a [website](https://img.kay.kr)
+- I've published [express-template-ts](https://github.com/coxwave/express-template-ts) as an open-source, with well-configured eslint and typescript with [express.js](https://expressjs.com/). Wishing backend developers be familiar with Typescript.
 
 ## Skilled
 
