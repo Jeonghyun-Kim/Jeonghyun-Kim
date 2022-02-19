@@ -28,7 +28,7 @@ Co-Founder, CTO of [Coxwave](https://www.coxwave.com/)
 And also subscribing **_releases_**
 
 - [Typescript <= 4.5](https://github.com/microsoft/TypeScript)
-- [Next.js <= 12.0](https://github.com/vercel/next.js) (and also [React.js](https://github.com/facebook/react))
+- [Next.js <= 12.1](https://github.com/vercel/next.js) (and also [React.js](https://github.com/facebook/react))
 - [TailwindCSS <= 3.0](https://github.com/tailwindlabs/tailwindcss)
 - [SWR(Stale-While-Revalidate) <= 1.2](https://github.com/vercel/swr)
 - [MongoDB for Node.js <= 4.3](https://github.com/mongodb/node-mongodb-native)
