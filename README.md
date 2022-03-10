@@ -12,16 +12,15 @@ Co-Founder, CTO of [Coxwave](https://www.coxwave.com/)
 
 ## Recently Interested In
 
-- [Svelte](https://github.com/sveltejs/svelte)
 - [Svelte Kit](https://github.com/sveltejs/kit)
-- [Strapi](https://github.com/strapi/strapi)
 - [Branching Feature in Figma](https://www.figma.com/best-practices/branching-in-figma/)
+- [MDX](https://mdxjs.com/)
 
 ### Most Recently
 
-- I've published [svelte-kit template](https://github.com/coxwave/svelte-template) as an open-source, which has integration with tailwindcss & mongodb out-of-the-box, and also contains electrifying usage pattern of svelte-kit in typescript. Here is a [live example](https://coxwave-svelte-template.vercel.app/).
 - I've launched [in-browser-image-resizer](https://github.com/kayk1m/img.kay.kr), which can resize and format an image without any server process. Here's a [website](https://img.kay.kr)
 - I've published [express-template-ts](https://github.com/coxwave/express-template-ts) as an open-source, with well-configured eslint and typescript with [express.js](https://expressjs.com/). Wishing backend developers be familiar with Typescript.
+- Created Next.js template focused on using `MDX`.
 
 ## Skilled
 
@@ -38,7 +37,6 @@ And also subscribing **_releases_**
 - [Express.js](https://github.com/expressjs/expressjs.com)
 - [React Native](https://github.com/facebook/react-native)
 - [Jest](https://github.com/facebook/jest)
-- [Cypress](https://github.com/cypress-io/cypress)
 
 ## Projects
 
