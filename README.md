@@ -20,7 +20,7 @@ Co-Founder, CTO of [Coxwave](https://www.coxwave.com/)
 
 - I've launched [in-browser-image-resizer](https://github.com/kayk1m/img.kay.kr), which can resize and format an image without any server process. Here's a [website](https://img.kay.kr)
 - Created Next.js template focused on using `MDX`.
-- Published Monorepo template repository using turborepo, yarn berry, and typescript.
+- Published [Monorepo template](https://github.com/kayk1m/monorepo-template) repository using turborepo, yarn berry, and typescript.
 
 ## Projects
 
