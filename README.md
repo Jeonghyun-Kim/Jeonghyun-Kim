@@ -12,31 +12,15 @@ Co-Founder, CTO of [Coxwave](https://www.coxwave.com/)
 
 ## Recently Interested In
 
-- [Svelte Kit](https://github.com/sveltejs/kit)
-- [Branching Feature in Figma](https://www.figma.com/best-practices/branching-in-figma/)
 - [MDX](https://mdxjs.com/)
+- [Turborepo](https://turborepo.org/)
+- [Yarn Berry Plug'N'Play](https://yarnpkg.com/features/pnp)
 
 ### Most Recently
 
 - I've launched [in-browser-image-resizer](https://github.com/kayk1m/img.kay.kr), which can resize and format an image without any server process. Here's a [website](https://img.kay.kr)
-- I've published [express-template-ts](https://github.com/coxwave/express-template-ts) as an open-source, with well-configured eslint and typescript with [express.js](https://expressjs.com/). Wishing backend developers be familiar with Typescript.
 - Created Next.js template focused on using `MDX`.
-
-## Skilled
-
-And also subscribing **_releases_**
-
-- [Typescript <= 4.6](https://github.com/microsoft/TypeScript)
-- [Next.js <= 12.1](https://github.com/vercel/next.js) (and also [React.js](https://github.com/facebook/react))
-- [TailwindCSS <= 3.0](https://github.com/tailwindlabs/tailwindcss)
-- [SWR(Stale-While-Revalidate) <= 1.2](https://github.com/vercel/swr)
-- [MongoDB for Node.js <= 4.3](https://github.com/mongodb/node-mongodb-native)
-
-## Experienced
-
-- [Express.js](https://github.com/expressjs/expressjs.com)
-- [React Native](https://github.com/facebook/react-native)
-- [Jest](https://github.com/facebook/jest)
+- Published Monorepo template repository using turborepo, yarn berry, and typescript.
 
 ## Projects
 
@@ -46,6 +30,7 @@ And also subscribing **_releases_**
 - [nextjs-template](https://github.com/coxwave/nextjs-template) - A open source template for [create-next-app](https://nextjs.org/docs/api-reference/create-next-app) which contains has integration with tailwindcss & mongodb out-of-the-box.
 - [Coxwave - Showcase](https://showcase.coxwave.com) - Collection of simple & awesome AI web applications
 - [svelte-template](https://github.com/coxwave/svelte-template) - A open source template for [svelte-kit](https://github.com/sveltejs/kit) which contains has integration with tailwindcss & mongodb out-of-the-box.
+- [Hama](https://www.hama.app) - An AI photo eraser without any professionalities. (give it a try!)
 
 ### Small
 
