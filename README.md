@@ -6,10 +6,6 @@ Able to build an entire web platform from databases to UI/UX with _state-of-the-
 
 [Linked In](https://www.linkedin.com/in/jeonghyunkay)
 
-## Currently Working On
-
-Co-Founder, CTO of [Coxwave](https://www.coxwave.com/)
-
 ## Recently Interested In
 
 - [MDX](https://mdxjs.com/)
